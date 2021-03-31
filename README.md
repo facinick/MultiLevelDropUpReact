@@ -1,4 +1,4 @@
-## Dropdown Menu 
+## Dropdown/ Dropup Menu 
 
 Animated multi-level dropdown menu inspired by Facebook's March 2020 web UI. 
 
